@@ -1,1 +1,56 @@
 Weekly topics
+
+1. Python programming
+  Using windows/linux
+  Using python in interactive mode and executing mode
+  Recap int, float, bool string list, tuples and dictionary types, loops, conditionals
+  Writing functions and class, using exceptions
+  Using pip to install packages
+  Threads and processes
+  Scripts vs programs, how to work with arguments
+  Utilities: ifconfig, ping, arp, …
+  Tools: wireshark, …
+
+2. Introduction
+  OSI model vs. TC/IP model
+  Physical and logical topologies
+  Common protocols, what is a protocol, example of a set of events that constitutes a protocol
+  Addressing and ports, IP4 vs IP6, 
+
+3. Interacting with remote system
+  FTP???
+  SNMP
+  LDAP
+  SAMBA
+  Telnet, SSH
+
+4. Using web API’s
+  Twitter
+  Amazon
+
+5. Email
+  SMTP
+  Pop3
+  Imap
+  Sending mail with tls
+  Security with ssl and tls ,,, what is encryption
+
+6. Web Server
+  http
+  post
+  get
+  screen scraping
+  cookies
+  Chat
+  Echo server
+
+7. Sockets
+  Unix-sockets
+  Websockets
+  Unix-sockets
+
+8. Game-Server
+  Unity game server
+
+9. Iot
+  Maybe a demonstration??
